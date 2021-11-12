@@ -1,0 +1,16 @@
+1- Creating project => Run command `npx create-next-app world-ranks`
+
+2- Create `src` root folder and move `Pages`, `styles` folders inside `src`.
+
+3- Update global.css by adding some css variables. (STEP#3)
+
+4- Creat component folder and `layout` folder, (STEP#4)
+src/components/layout
+here we will move 
+
+5- Add Logo.svg to the Layout component.
+
+6- add `getStaticProps` function to the index to get all data at the build time.
+   these data will be updated when we build the project. (STEP#6).
+
+7- Add `SearchInput` component. (STEP#7). 
