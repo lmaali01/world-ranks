@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Link from 'next/Link'
+import Link from 'next/link'
 import styles from './Layout.module.css'
 
 export default function Layout({ children, title = 'World Ranks' }) {
